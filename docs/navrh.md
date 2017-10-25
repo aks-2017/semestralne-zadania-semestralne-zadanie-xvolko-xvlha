@@ -30,6 +30,7 @@ Tab. 1 – výsledky porovnania z článku
 * Ipaddress, netaddr = potrebné pre inštaláciu OSHI
 * netaddr
 * OSHI dependencies:
-Open vSwitch 2.390
-Ryu
-Networkx
+Open vSwitch 2.390,
+Ryu,
+Networkx,
+Dreamer-Topology-Parser-and-Validator
