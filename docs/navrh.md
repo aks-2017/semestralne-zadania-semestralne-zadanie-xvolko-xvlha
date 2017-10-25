@@ -3,6 +3,7 @@
 ##Juraj Volko, Marek Vlha
 
 ##Cvičenie: Streda - 15.00
+
 ------------------------------------------
 
 #	Analýza
