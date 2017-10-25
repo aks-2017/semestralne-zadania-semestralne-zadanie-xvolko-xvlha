@@ -18,6 +18,7 @@ Obr. 1 - Topológia
 
 *	Nahranie topológie do rozšíreného mininetu na VM
 *	Testovanie TCP throughput (Mb/s) použitím OSHI VLL a použitím OSHI IP (Obr. 1) pomocou Dreamer-Measurement-Tools
+* Testovací scenár: Preposielanie dát medzi uzlami ako je znázornené na Obr. 1
 *	Porovnanie výsledkov s výsledkami z článku [1] v tabubulke(Tab. 1)
 ![vysledky](https://github.com/aks-2017/semestralne-zadania-semestralne-zadanie-xvolko-xvlha/blob/master/docs/image/TAB.png "Vysledky")
 
