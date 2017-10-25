@@ -1,8 +1,8 @@
-#OSHI - Open Source Hybrid IP/SDN
+# OSHI - Open Source Hybrid IP/SDN
 
-##Juraj Volko, Marek Vlha
+## Juraj Volko, Marek Vlha
 
-##Cvičenie: Streda - 15.00
+## Cvičenie: Streda - 15.00
 
 ------------------------------------------
 
@@ -19,15 +19,15 @@ V juestvujúcich IP/MPLS scenároch existujú tzv. tunely MPLS nazývané LSP. V
 
 #	Návrh
 
-..*	Vytvorenie topológie (obr. 1)Hybridnej IP/SDN siete pomocou Topology3D. Žlté – koncový užívateľ (7), zelené – switch (4), červené – “Access OSHI” (3), modré – Core OSHI (5)
+*	Vytvorenie topológie (obr. 1)Hybridnej IP/SDN siete pomocou Topology3D. Žlté – koncový užívateľ (7), zelené – switch (4), červené – “Access OSHI” (3), modré – Core OSHI (5)
 ![topo](https://github.com/aks-2017/semestralne-zadania-semestralne-zadanie-xvolko-xvlha/blob/master/docs/image/TOPO.png "Topologia")
 Obr. 1 - Topológia
 
-..*	Nahranie topológie do rozšíreného mininetu na VM
+*	Nahranie topológie do rozšíreného mininetu na VM
 
-..*	Testovanie TCP throughput (Mb/s) použitím OSHI VLL a použitím OSHI IP (Obr. 1) pomocou Dreamer-Measurement-Tools
+*	Testovanie TCP throughput (Mb/s) použitím OSHI VLL a použitím OSHI IP (Obr. 1) pomocou Dreamer-Measurement-Tools
 
-..*	Porovnanie výsledkov s výsledkami z článku [1] v tabubulke(Tab. 1)
+*	Porovnanie výsledkov s výsledkami z článku [1] v tabubulke(Tab. 1)
 ![vysledky](https://github.com/aks-2017/semestralne-zadania-semestralne-zadanie-xvolko-xvlha/blob/master/docs/image/TAB.png "Vysledky")
 
 Tab. 1 – výsledky porovnania z článku
@@ -40,11 +40,11 @@ Tab. 1 – výsledky porovnania z článku
 
 ### Mininet (inštalácia doplnkov do mininetu bude realizovaná skriptami) 
 
-..* Ipaddress, netaddr = potrebné pre inštaláciu OSHI
+* Ipaddress, netaddr = potrebné pre inštaláciu OSHI
 
-..* netaddr
+* netaddr
 
-..* OSHI dependencies:
+* OSHI dependencies:
 
 Open vSwitch 2.390
 Ryu
