@@ -2,7 +2,7 @@
 ## Juraj Volko, Marek Vlha
 ## Cvičenie: Streda - 15.00
 -------------------
-#Inštalácia
+# Inštalácia
 
 1.1) netaddr (pip) - sudo pip install netaddr
 
