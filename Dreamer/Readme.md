@@ -32,7 +32,7 @@ Na
 
 PROJECT\_PATH = &#39;../workspace/Dreamer-Mininet-Extensions/&#39;
 
-## Spúštanie Mininet Aplikácie pre OSHI topológie:
+## Spúštanie OSHI nodes na Mininete:
 
 Spustenie OSHI IP/SDN Miniet príkladu s OSHI topológiou vo formáte json:
 
